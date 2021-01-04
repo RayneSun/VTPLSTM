@@ -1,4 +1,3 @@
-<![endif]-->
 
 **Project state: Still Fixing**
 
@@ -62,7 +61,7 @@ The predicted trajectory is correct but it lack of accuracy on intention recogni
 
 (The solid line is the real track and the dashed line is the predicted track)
 
-**Requirements****：**
+**Requirements:**
 
 Pytorch
 
