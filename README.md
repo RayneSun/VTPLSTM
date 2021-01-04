@@ -53,11 +53,8 @@ VPTLSTM(
 
 The predicted trajectory is correct but it lack of accuracy on intention recognition. Maybe there are too less vehicles to change lane so that the model couldn’t get the conditions of changing lane. We are trying to get more relevant datasets about it.
 
-<![if !vml]>![](file:///C:/Users/Rayne/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)<![endif]>
-
-<![if !vml]>![](file:///C:/Users/Rayne/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)<![endif]><![if !vml]>![](file:///C:/Users/Rayne/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)<![endif]>
-
-<![if !vml]>![](file:///C:/Users/Rayne/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)<![endif]>
+![image](https://github.com/RayneSun/VTPLSTM/blob/main/%E5%9B%BE%E7%89%872.png)
+![image](https://github.com/RayneSun/VTPLSTM/blob/main/%E5%9B%BE%E7%89%873.png)
 
 (The solid line is the real track and the dashed line is the predicted track)
 
